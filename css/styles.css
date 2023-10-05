@@ -12,16 +12,16 @@ body{
 .header-navigation {}
 
 
-header{
+header-logo{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
-    /* text-transform: uppercase; */
+    text-transform: uppercase;
 } 
 
-
+/*
 logo-web{
     color: #4d5ae5;
     font-size: 18px;
@@ -32,9 +32,11 @@ logo-web{
     letter-spacing: 0.03em;
 
 }
+*/
 logo-studio{
     color: #2E2F42;
 }
+
 link-studio{
     font-weight: 500;
     font-size: 16px;
