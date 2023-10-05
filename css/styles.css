@@ -13,6 +13,7 @@ body{
 
 
 header-logo{
+    color: #4d5ae5;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -21,7 +22,7 @@ header-logo{
     text-transform: uppercase;
 } 
 
-/*
+
 logo-web{
     color: #4d5ae5;
     font-size: 18px;
@@ -32,8 +33,8 @@ logo-web{
     letter-spacing: 0.03em;
 
 }
-*/
-logo-studio{
+
+logo-color{
     color: #2E2F42;
 }
 
