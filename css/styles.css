@@ -1,3 +1,29 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+}
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+address {
+    font-style: normal;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
@@ -10,7 +36,7 @@ body {
 .header-navigation{}
 
 
-header-logo{
+.header-logo{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -20,11 +46,11 @@ header-logo{
     color: #4d5ae5;
 }
 
-color-logo{
+.color-logo{
     color: #2e2f42;
 }
 
-link-studio{
+.link-studio{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
