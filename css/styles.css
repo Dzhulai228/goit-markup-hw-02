@@ -58,7 +58,7 @@ body {
     color: #2e2f42;
 }
 
-.link-portfolio{
+/* .link-portfolio{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -72,7 +72,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-}
+} */
 
 
 .link-studio:hover, 
@@ -80,7 +80,7 @@ body {
     color: #404bbf
 }
 
-.link-portfolio:hover, 
+/* .link-portfolio:hover, 
 .link-portfolio:focus {
     color: #404bbf
 }
@@ -88,7 +88,7 @@ body {
 .link-contacts:hover, 
 .link-contacts:focus {
     color: #404bbf
-}
+} */
 
 
 
