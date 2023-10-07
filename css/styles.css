@@ -57,3 +57,24 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
+.link-studio:hover, 
+.link-studio:focus {
+    color: #404bbf
+}
+
+.link-portfolio{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.link-contacts{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
