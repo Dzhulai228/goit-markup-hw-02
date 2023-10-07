@@ -102,7 +102,7 @@ body {
     cursor: pointer;
 }
 
-.section-button:hover 
+.section-button:hover, 
 .section-button:focus {
     background-color: #404BBF
 }
