@@ -107,7 +107,7 @@ body {
     background-color: #404BBF
 }
 
-.section-one-titles-features{
+.section-two-titles-features{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -115,11 +115,32 @@ body {
     color: #2e2f42;   
 }
 
-.section-one-paragraph-features {
+.section-two-paragraph-features {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+/* ==================================== */
+/* ==================================== */
+
+.section-three{
+    background-color: #F4F4FD;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
