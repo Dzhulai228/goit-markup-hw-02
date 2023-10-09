@@ -1,27 +1,5 @@
-/* h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-    margin: 0;
-}
-ul {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
-}
-a {
-    text-decoration: none;
-}
-img {
-    display: block;
-    max-width: 100%;
-    height: auto;
-}
-*/
-address {
+
+/* address {
     font-style: normal;
 }
 
@@ -30,12 +8,12 @@ body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #ffffff;
-} 
+}  */
 
 
 /*==========================================*/
 /*==========================================*/
-
+/* 
 .header{}
 
 .header-navigation{}
@@ -45,7 +23,7 @@ body {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    /* line-height: 1.17; */
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -81,13 +59,13 @@ body {
 .link-adress:hover,
 .link-adress:focus {
     color: #404bbf;
-}
+} */
 
 
 /* ==========section-two============ */
 /* ==========section-two============ */
 
-
+/* 
 .section{
     background-color: #2e2f42;
 }
@@ -128,11 +106,11 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-}
+} */
 
 /* ==========section-three============ */
 /* ==========section-three============ */
-
+/* 
 .section-three{
     background-color: #F4F4FD;
 }
@@ -163,12 +141,12 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-}
+} */
 
 
 /* ==========section-four============ */
 /* ==========section-four============ */
-
+/* 
 .section-four-list-title{
     font-weight: 500;
     font-size: 20px;
@@ -180,12 +158,12 @@ body {
 .section-four-paragrahp-title{
     line-height: 1.5;
     letter-spacing: 0.02em;
-}
+} */
 
 
 /* ==========section-four============ */
 /* ==========section-four============ */
-
+/* 
 .footer{
     background-color: #2e2f42;
 }
@@ -208,7 +186,7 @@ body {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
-}
+} */
 
 
 
