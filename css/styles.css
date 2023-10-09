@@ -1,4 +1,4 @@
-h1,
+/* h1,
 h2,
 h3,
 h4,
@@ -9,16 +9,16 @@ p {
 }
 ul {
     list-style: none;
-    /* padding-left: 0; */
+    padding-left: 0;
     margin: 0;
 }
 a {
     text-decoration: none;
 }
 img {
-    /* display: block; */
-    /* max-width: 100%; */
-    /* height: auto; */
+    display: block;
+    max-width: 100%;
+    height: auto;
 }
 address {
     font-style: normal;
@@ -28,7 +28,7 @@ body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #ffffff;
-}
+} */
 
 
 /*==========================================*/
