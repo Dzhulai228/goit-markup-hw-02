@@ -179,12 +179,21 @@ body {
 }
 
 
+/* ==========section-four============ */
+/* ==========section-four============ */
 
+.footer{
+    background-color: #2e2f42;
+}
 
+/* Для логотипа в футері я використав стилі
+ які ж надавав логотипу, тільки в хедері */
 
-
-
-
+.footer_paragrahp{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
 
 
 
